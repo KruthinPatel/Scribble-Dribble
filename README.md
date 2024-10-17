@@ -15,7 +15,7 @@ A draw clone with React and TypeScript. Rough.js is used for the sketchy, hand-d
 
 ## Features
 
-Here's what you can do with NinjaSketch:
+Here's what you can do with Sribble-Dribble:
 
 - **Choose a Tool**: You have pencils, lines, rectangles, and text tools. Pick one and start creating.
 
